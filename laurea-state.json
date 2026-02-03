@@ -1,0 +1,66 @@
+{
+  "app": "LAUREA_CALC",
+  "version": 1,
+  "exportedAt": "2026-02-03T00:05:21Z",
+  "state": {
+    "theme": "light",
+    "desconto": 0,
+    "receitas": {
+      "SILENCIADOR": {
+        "Peças de Cobre": 25,
+        "Garrafa Vazia": 1,
+        "Fita Isolante": 1,
+        "Peças de Plástico": 50,
+        "Fita Adesiva": 1,
+        "Pasta de Dente": 2
+      },
+      "MIRA HOLOGRÁFICA": {
+        "Bateria AA+": 1,
+        "Peças de Vidro": 25,
+        "Peças de Plástico": 25,
+        "Fita Adesiva": 1
+      },
+      "AK-103": {
+        "Peças de Metal": 150,
+        "Peças de Cobre": 220,
+        "Peças de Vidro": 235,
+        "Peças de Arma Pesada": 1,
+        "Peças de Plástico": 235,
+        "Corpo de Rifle": 1,
+        "Peças de Borracha": 235
+      },
+      "PENTE ESTENDIDO": {
+        "Peças de Metal": 35,
+        "Peças de Borracha": 50,
+        "Peças de Plástico": 50,
+        "Fita Adesiva": 2,
+        "Fita Isolante": 2
+      },
+      "LANTERNA TÁTICA": {
+        "Bateria AA": 1,
+        "Peças de Vidro": 25,
+        "Fita Isolante": 1,
+        "Peças de Plástico": 25
+      },
+      "AK-102 (Upgrade)": {
+        "AK-103": 1,
+        "Peças de Metal": 75,
+        "Peças de Cobre": 85,
+        "Peças de Vidro": 115,
+        "Peças de Arma Pesada": 1,
+        "Peças de Plástico": 95,
+        "Peças de Borracha": 115,
+        "Aperfeiçoamento Rifle": 1
+      }
+    },
+    "precos": {
+      "SILENCIADOR": 0,
+      "MIRA HOLOGRÁFICA": 0,
+      "AK-103": 0,
+      "PENTE ESTENDIDO": 0,
+      "LANTERNA TÁTICA": 0,
+      "AK-102 (Upgrade)": 0
+    },
+    "itens": []
+  }
+}
